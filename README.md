@@ -37,4 +37,4 @@ By diving deep into DSA, I aim to strengthen my core programming fundamentals an
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/DSA-Learnings.git  
+   git clone https://github.com/hello-jai/DSA-Learnings
